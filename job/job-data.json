@@ -1,0 +1,31 @@
+{
+  "jobdata": [
+    {
+      "title": "Software Developer - Javascript / Typescript",
+      "skills": "Javascript or Typescript, nodejs, git, sql and nosql",
+      "description": "Can work in a small team, able to research and propose technical solutions to solve varied requirements, enthusiastic about new technologies such as VR, fintech, machine learning",
+      "location": "Indonesia - Remote Developer",
+      "qualification": "3+ year experiences software developer",
+      "education": "Any IT/TECH education",
+      "englishlevel": "Working English Level"
+    },
+    {
+      "title": "Software Developer - .NET CORE",
+      "skills": ".NET CORE, C# or F#,  SQL and noSQL, GIT, Visual Studio 2019 and Visual Studio Code ",
+      "description": "Can work in a small team, able to research and propose technical solutions to solve varied requirements, enthusiastic about new technologies such as VR, fintech, machine learning",
+      "location": "Indonesia - Remote Developer",
+      "qualification": "3+ Years experiences software developer",
+      "education": "ANY IT/TECH education",
+      "englishlevel": "Working English Level"
+    },
+    {
+      "title": "Technology Marketing",
+      "skills": "Communication, Writing, Analytical, Research",
+      "description": "",
+      "location": "Remote",
+      "qualification": "3+ Years Experience",
+      "education": "Business and Marketing Education",
+      "englishlevel": "Working Level English"
+    }
+  ]
+}
