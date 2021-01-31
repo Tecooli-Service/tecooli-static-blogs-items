@@ -45,9 +45,21 @@
             "Brand image",
             "Marketing"
           ]
+        },
+        {
+          "title": "Website goes production",
+          "headerimage": "image-2021-01-31.png",
+          "header": "Website using amazon cloudfront as CDN",
+          "published": "2021-01-31",
+          "author": "Nicko Satria",
+          "filename": "",
+          "tags": [
+            "HTML5",
+            "AWS",
+            "Brand image",
+            "Marketing"
+          ]
         }
-
-
       ]
     }
   ]
