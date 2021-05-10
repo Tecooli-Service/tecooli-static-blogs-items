@@ -44,7 +44,7 @@
       "qualification": "3+ Years Experience",
       "education": "Business and Marketing Education",
       "englishlevel": "Working Level English"
-    },  
+    },
     {
       "title": "3D Artist or Designer for VR/MR",
       "skills": "3D, Render, Blender",
@@ -52,6 +52,15 @@
       "location": "Remote",
       "qualification": "3+ Years Experience",
       "education": "Any education at least passing school or graduate with main skill for designer",
+      "englishlevel": "Working Level English"
+    },
+    {
+      "title": "Software Quality Engineer",
+      "skills": "Testing Methodology, Problem Solving skills, attention to detail, unit test",
+      "description": "<p>Create tests to identify software problems<br/>Analyze bugs and errors found during tests<br/>Document results of tests for the software development team<br/>Recommend improvements in software to enhance user experience</p>",
+      "location": "Remote",
+      "qualification": "3+ Years Experience",
+      "education": "Any education at least passing school or graduate with main skill for software Quality Engineer",
       "englishlevel": "Working Level English"
     }
   ]
